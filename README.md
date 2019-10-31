@@ -1,7 +1,10 @@
 # AdAwayForSafari
 AdAway for Safari using Little Snitch lsrules on macOS Mojave (10.14) and macOS Catalina (10.15)
+
 SSLforApache.sh Enables SSL in Apache for localhost
+
 AdAwayForSafari.sh generates Little Snitch lsrules based on AdAway hosts
+
 RestoreApacheConfig.sh restores Apache's default configuration
 
 Sources: 
