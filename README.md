@@ -5,6 +5,8 @@ SSLforApache.sh Enables SSL in Apache for localhost
 
 AdAwayForSafari.sh generates Little Snitch lsrules based on AdAway hosts
 
+AdAwayForSafariUpdate.sh Generates new lsrules, opens Little Snitch Configuration for update
+
 RestoreApacheConfig.sh restores Apache's default configuration
 
 Sources: 
