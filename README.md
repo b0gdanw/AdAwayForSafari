@@ -20,8 +20,12 @@ AdAway default blocklist
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 
-hpHosts - Ad and Tracking servers only
-https://hosts-file.net/ad_servers.txt
+StevenBlack/hosts
+https://github.com/StevenBlack/hosts
+
+* Since April 2020, no longer available
+* hpHosts - Ad and Tracking servers only
+* https://hosts-file.net/ad_servers.txt
 
 MVPS HOSTS 
 http://winhelp2002.mvps.org/hosts.txt
