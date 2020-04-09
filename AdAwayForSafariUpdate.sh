@@ -8,8 +8,8 @@ if [ -f hosts1.txt ]; then
   echo '--> adaway.org saved';
 fi
 # Host 2
-curl -O https://hosts-file.net/ad_servers.txt
-mv ad_servers.txt hosts2.txt
+curl -O https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+mv hosts hosts2.txt
 if [ -f hosts2.txt ]; then
   echo '--> hosts-file.net saved';
 fi
