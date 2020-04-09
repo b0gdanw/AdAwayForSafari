@@ -23,9 +23,7 @@ License: CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 StevenBlack/hosts
 https://github.com/StevenBlack/hosts
 
-* Since April 2020, no longer available
-* hpHosts - Ad and Tracking servers only
-* https://hosts-file.net/ad_servers.txt
+* Since April 2020, no longer available - * hpHosts - Ad and Tracking servers only * https://hosts-file.net/ad_servers.txt
 
 MVPS HOSTS 
 http://winhelp2002.mvps.org/hosts.txt
