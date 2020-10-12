@@ -14,7 +14,7 @@ if [ -f hosts2.txt ]; then
   echo '--> hosts-file.net saved';
 fi
 # Host 3
-curl -O http://winhelp2002.mvps.org/hosts.txt
+curl -O https://winhelp2002.mvps.org/hosts.txt
 mv hosts.txt hosts3.txt
 if [ -f hosts3.txt ]; then
   echo '--> winhelp2002.mvps.org saved';
