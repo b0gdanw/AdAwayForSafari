@@ -26,10 +26,10 @@ if [ -f hosts4.txt ]; then
   echo '--> pgl.yoyo.org saved';
 fi
 # Host 5
-curl -O https://www.malwaredomainlist.com/hostslist/hosts.txt
-mv hosts.txt hosts5.txt
+curl -O https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
+mv latestdomains.piHole.txt hosts5.txt
 if [ -f hosts5.txt ]; then
-  echo '--> malwaredomainlist saved';
+  echo '--> DigitalSide Threat-Intel saved';
 fi
 # Host 6
 curl -O https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
