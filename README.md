@@ -33,13 +33,16 @@ Blocklist for use with hosts files to block ads, trackers, and other nasty thing
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
 Credits:        Peter Lowe - pgl@yoyo.org - https://pgl.yoyo.org/ - https://twitter.com/pgl
 
-MalwareDomainList.com Hosts List
+* Since November 2020, no longer available - * MalwareDomainList.com Hosts List
 http://www.malwaredomainlist.com/hostslist/hosts.txt 
 
 NoCoin Filter List
 Blocking Web Browser Bitcoin Mining
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 License: https://mit-license.org/
+
+DigitalSide Threat-Intel
+https://raw.githubusercontent.com/davidonzo/Threat-Intel/master/lists/latestdomains.piHole.txt
 
 Dani3lSun/adblock_hosts.sh https://gist.github.com/Dani3lSun/83ebfa77fbb21a6873ef
 
